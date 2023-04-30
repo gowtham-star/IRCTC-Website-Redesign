@@ -1,6 +1,8 @@
 # IRCTC-Website-Redesign
 Redesigned the interface of India's largest railway booking site IRCTC. This repository contains the Figma project for the redesign of the IRCTC website. The goal of this project is to improve the user experience and make it easier for users to book train tickets and access relevant information.
 
+To view the live demo, click [here]([http://link.to/external/content](https://www.figma.com/proto/0uV1OBptIA6qSGjlFPit8W/IRCTC-Redesign?page-id=0%3A1&node-id=2-14560&viewport=661%2C437%2C0.03&scaling=scale-down&starting-point-node-id=2%3A14560&show-proto-sidebar=1)).
+
 ## Redisgned Features
 
 * Revamped the entire home page to provide a refreshing and modern user interface.

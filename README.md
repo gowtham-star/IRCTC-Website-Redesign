@@ -29,6 +29,6 @@ Redesigned the interface of India's largest railway booking site IRCTC. This rep
 ### Search Page
 ![Team7_Prototype](https://user-images.githubusercontent.com/29543544/235371659-eaa558f7-bdb8-40fc-8001-0cfcb1f709a0.jpg)
 
-### New Features page
-![Team7_Prototype](https://user-images.githubusercontent.com/29543544/235371754-6e2998e6-8867-4f87-ab72-ffede3304511.jpg)
+### Dark Mode and Accesibility Page
+![darkmode](https://user-images.githubusercontent.com/29543544/235371874-6113eee6-30f3-43a9-b288-45b731a3cda4.jpg)
 
